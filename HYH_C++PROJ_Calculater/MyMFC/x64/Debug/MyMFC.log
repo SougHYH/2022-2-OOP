@@ -1,0 +1,18 @@
+﻿  AbstractButton.cpp
+C:\Users\m\Desktop\대학\2022\객체1 - 조세형\28035\HYH_C++PROJ_Calculater\MyMFC\AbstractButton.cpp(36,73): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ActionListener.cpp
+  Button.cpp
+  CheckBox.cpp
+  Component.cpp
+  Container.cpp
+  frame.cpp
+C:\Users\m\Desktop\대학\2022\객체1 - 조세형\28035\HYH_C++PROJ_Calculater\MyMFC\frame.cpp(90,48): warning C4302: '형식 캐스트': 'LPWSTR'에서 'WORD'(으)로 잘립니다.
+  Misc.cpp
+  MouseListener.cpp
+  Panel.cpp
+  StaticText.cpp
+C:\Users\m\Desktop\대학\2022\객체1 - 조세형\28035\HYH_C++PROJ_Calculater\MyMFC\StaticText.cpp(13,83): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ToolBar.cpp
+  코드를 생성하고 있습니다...
+C:\Users\m\Desktop\대학\2022\객체1 - 조세형\28035\HYH_C++PROJ_Calculater\MyMFC\frame.cpp(45): warning C4715: 'WndProc': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  MyMFC.vcxproj -> C:\Users\m\Desktop\대학\2022\객체1 - 조세형\28035\HYH_C++PROJ_Calculater\x64\Debug\MyMFC.lib
